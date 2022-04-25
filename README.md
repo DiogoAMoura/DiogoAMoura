@@ -1,6 +1,6 @@
 <!--
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diogo Aandrade</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Diogo Andrade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiogoAMoura&color=red" alt="Profile views" /> </p>
 
 <br><br>
@@ -8,9 +8,11 @@
 ## I am studing
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-CSHARP-05122A?style=flat&logo=csharp)&nbsp;
+![DotNet](https://img.shields.io/badge/-DOTNET-05122A?style=flat&logo=dotnet)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Unity](https://img.shields.io/badge/-UNITY-05122A?style=flat&logo=unity)&nbsp;
+![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
