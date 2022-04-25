@@ -13,6 +13,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Unity](https://img.shields.io/badge/-UNITY-05122A?style=flat&logo=unity)&nbsp;
 ![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+<br>
+![UbuntuTerminal](https://img.shields.io/badge/-TERMINALUBUNTU-05122A?style=flat&logo=ubuntu)&nbsp;
+![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
