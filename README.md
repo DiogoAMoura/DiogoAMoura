@@ -14,7 +14,7 @@
 ![Godot](https://img.shields.io/badge/-GODOT-05122A?style=flat&logo=godotengine)&nbsp;
 <!--![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;-->
 <br>
-![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
+<!--![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;-->
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
