@@ -12,6 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Godot](https://img.shields.io/badge/-GODOT-05122A?style=flat&logo=godotengine)&nbsp;
+![C](https://img.shields.io/badge/-C_Lang-05122A?style=flat&logo=C)&nbsp;
 <!--![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;-->
 <br>
 <!--![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;-->
