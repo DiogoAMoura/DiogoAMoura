@@ -7,18 +7,15 @@
 
 ## I studing
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100" height="100">
-![C#](https://img.shields.io/badge/-CSHARP-05122A?style=flat&logo=csharp)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![c++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![Godot](https://img.shields.io/badge/-GODOT-05122A?style=flat&logo=godotengine)&nbsp;
-![C](https://img.shields.io/badge/-C_Lang-05122A?style=flat&logo=C)&nbsp;
-<!--![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;-->
-<br>
-<!--![Gimp](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="100" height="100">
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="100" height"100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" height="100">
