@@ -13,7 +13,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="100" height="100" align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" height="100" align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100" height="100" align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="100" height="100" align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100" height="100">
 
 <br><br>
 
