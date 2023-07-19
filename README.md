@@ -7,17 +7,16 @@
 
 ## I have Interests
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" height="100" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100" height="100" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="100" height="100" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" width="100" height="100" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100" height="100" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="100" height="100" align="left">
 
 <br><br><br><br><br>
 
 ## I am studing
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="100" height="100" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="100" height="100" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="100" height="100" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="100" height="100" align="left">
 
 <br><br><br><br><br>
 
