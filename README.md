@@ -7,7 +7,8 @@
 
 ## I have Interests
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" height="75" align="left">-->
-<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="75" height="75" align="left">-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75" align="left">
 
 <br><br><br><br><br>
 
