@@ -8,15 +8,21 @@
 ## I have Interests
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" height="75" align="left">-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="75" height="75" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="75" height="75" align="left">
+
 
 <br><br><br><br><br>
 
 ## I am studing
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="75" height="75" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" width="75" height="75" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75" height="75" align="left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="75" height="75" align="left">
+
 
 <br><br><br><br><br>
 
