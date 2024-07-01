@@ -1,6 +1,6 @@
 <!--
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-#Hi, I'm Diogo Andrade
+# Hi, I'm Diogo Andrade
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiogoAMoura&color=red" alt="Profile views" /> </p>
 <br><br>
 <a href="https://www.youtube.com/@sumamaproductions.1692" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -18,7 +18,9 @@
 </div>
 
 <br>
+
 ## Technologys
+<br>
 <div style="width:100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" height="45" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" align="left">
