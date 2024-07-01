@@ -16,6 +16,7 @@
 <div style="width:100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="45" height="45" align="left">
 </div>
+<br>
 
 <br>
 
