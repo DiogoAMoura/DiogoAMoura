@@ -20,16 +20,13 @@
 
 <br>
 
-## Technologys
+## Technologies
 <br>
 <div style="width:100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" height="45" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" width="45" height="45" align="left">
-
-
-
 
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg"" width="45" height="45" align="left">-->
