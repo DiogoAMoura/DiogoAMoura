@@ -25,6 +25,9 @@
 <div style="width:100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MonoGame_Logo.svg" width="45" height="45" aligh="left">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/L%C3%96VE_app_icon_%280.10.1%29.svg" width="45" height="45" aligh="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="45" height="45" aligh="left">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" align="left">
 </div>
